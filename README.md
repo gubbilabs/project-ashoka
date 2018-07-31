@@ -14,7 +14,10 @@ To understand changes in the structural and functional composition of woody vege
 # Contents 
 1) Metadata: The abstract of the data file. It has description of all the variables given under description of individual files. 
 2) Protocol: This is a generalized protocol so that anyone can replicate this in India. 
-3) The data files: It has three sheets and is the final version which will be updated each year. 
+3) The data files are in CSV format. At present there are three files: 
+    a) Long-term transects 
+    b) Fergusson College - Botanical Garden (FCBG)
+    c) Fergusson College - Central Garden 
 
 # License
 The data is licensed under a Creative Commons license, CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/.
