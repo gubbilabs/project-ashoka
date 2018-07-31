@@ -1,5 +1,5 @@
-# project-ashoka
-Project Ashoka is a Long-term Ecological Research and Monitoring activity. Data collected under this will be curated and posted here.
+# Project Ashoka
+Project Ashoka is a Long-term Ecological Research and Monitoring initiative. 
 
 # Data
 Data curated from surveys/monitoring by Gubbi Labs and other participating individuals/groups/organisations are curated and shared here. 
