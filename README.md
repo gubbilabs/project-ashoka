@@ -3,7 +3,12 @@
 # Prepared by: Ashish N. Nerlekar (ashishnerlekar3@gmail.com) 
 
 # Investigators 
-Ashish N. Nerlekar, Snehangshu Das, Akshay A. Onkar, Mayur Bhagwat, Pranav C. Mhaisalkar, Minakshi C. Mahajan.
+Ashish N. Nerlekar [1], Snehangshu Das [2], Akshay A. Onkar [2], Mayur Bhagwat [3], Pranav C. Mhaisalkar [4], Minakshi C. Mahajan [2].
+
+*[1] Department of Ecosystem Science and Management, Texas A and M University, TX- 77843*
+*[2] Department of Botany, Fergusson College, Shivajinagar, Pune- 411004*
+*[3] Department of Botany, Savitribai Phule Pune University, Ganeshkhind, Pune- 411007*
+*[4] Department of Biodiversity, MES Abasaheb Garware College, Karve road, Pune 411004*
 
 # Start and end dates 
 18th May 2018 (Botanical Garden), 17th June 2018 (Central garden), 21-23 June 2018 (Long-term transects) 
