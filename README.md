@@ -3,7 +3,7 @@
 # Prepared by: Ashish N. Nerlekar (ashishnerlekar3@gmail.com) 
 
 # Investigators 
-Ashish N. Nerlekar [1], Snehangshu Das [2], Akshay A. Onkar [2], Mayur Bhagwat [3], Pranav C. Mhaisalkar [4], Vinayak D. Chavan [5] Minakshi C. Mahajan [2].
+Ashish N. Nerlekar [1], Snehangshu Das [2], Akshay A. Onkar [2], Mayur Bhagwat [3], Pranav C. Mhaisalkar [4], Vinayak D. Chavan [5], Minakshi C. Mahajan [2].
 
 *[1] Department of Ecosystem Science and Management, Texas A and M University, TX- 77843*
 *[2] Department of Botany, Fergusson College, Shivajinagar, Pune- 411004*
